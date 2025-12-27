@@ -305,9 +305,9 @@ The D.H. Lawrence Ranch connects to other landmarks in the Taos cultural hemisph
 
 ## Cross-References
 
-- **Regional Overview**: [Taos Extended Overview](../overview/)
+- **Regional Overview**: [Taos Extended Overview](../overview/taos.md)
 - **Geology**: [Taos Geology](../geology/taos-geology.md) - Mountain landscape, Sangre de Cristo Mountains
-- **Natural History**: [Taos Natural History](../natural-history/) - Mountain flora and fauna, piñon-juniper woodland
+- **Natural History**: [Flora Overview](../natural-history/flora/taos-flora-overview.md) - Mountain flora and fauna, piñon-juniper woodland
 - **Human History**: [Modern Era](../human-history/modern-contemporary-era.md) - Art colony development, literary migration
 - **Significant Figures**: 
   - [D.H. Lawrence](../biographies/dh-lawrence.md) - Primary association

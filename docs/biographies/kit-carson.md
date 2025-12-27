@@ -459,7 +459,7 @@ Carson's connections to other significant figures in Taos history include his wo
 - **Landmarks**: Kit Carson grave site - Historic landmark in Taos
 - **Other Figures**: 
   - [John C. Frémont](john-c-fremont.md) (worked with Carson as guide during expeditions)
-- **Timeline**: [Regional Timeline](../timeline/) - 1840s-1860s territorial period
+- **Timeline**: [Regional Timeline](../timeline/taos-timeline.md) - 1840s-1860s territorial period
 
 ---
 

@@ -110,7 +110,7 @@ While Red Cloud was a significant figure in Native American history and his lead
 ## Related Documents
 
 - **Human History**: [Extended Overview Human History Section](../overview/taos-extended-overview-part-7.md) - 19th century Native American relations
-- **Timeline**: [Regional Timeline](../timeline/) - 19th century period
+- **Timeline**: [Regional Timeline](../timeline/taos-timeline.md) - 19th century period
 
 ---
 

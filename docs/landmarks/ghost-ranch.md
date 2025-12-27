@@ -313,9 +313,9 @@ Ghost Ranch connects to other landmarks in the Taos cultural hemisphere and nort
 
 ## Cross-References
 
-- **Regional Overview**: [Taos Extended Overview](../overview/)
+- **Regional Overview**: [Taos Extended Overview](../overview/taos.md)
 - **Geology**: [Taos Geology](../geology/taos-geology.md) - High desert landscape, geological formations
-- **Natural History**: [Taos Natural History](../natural-history/) - High desert flora and fauna
+- **Natural History**: [Flora Overview](../natural-history/flora/taos-flora-overview.md) - High desert flora and fauna
 - **Human History**: [Modern Era](../human-history/modern-contemporary-era.md) - Art colony development, artistic migration
 - **Significant Figures**: 
   - [Georgia O'Keeffe](../biographies/georgia-okeeffe.md) - Primary association

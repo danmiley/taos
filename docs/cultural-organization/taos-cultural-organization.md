@@ -686,9 +686,9 @@ Taos's cultural identity reflects multiple layers:
 - **Extended Overview Part 9**: [taos-extended-overview-part-9.md](../overview/taos-extended-overview-part-9.md) - Governance, Demographics, Economy
 - **Human History**: [taos-human-history.md](../human-history/taos-human-history.md) - Historical context for cultural organization
 - **Municipalities**: [town-of-taos.md](town-of-taos.md), [questa.md](questa.md), [arroyo-seco.md](arroyo-seco.md) - Individual municipality profiles
-- **Biographies**: [Significant figures](../biographies/) - People who shaped cultural organization
+- **Biographies**: [Significant figures](../biographies/popay.md) - People who shaped cultural organization
 - **Geography**: [taos-geography.md](../geography/taos-geography.md) - Physical context for cultural organization
-- **Natural History**: [Natural history sections](../natural-history/) - Environmental context
+- **Natural History**: [Flora Overview](../natural-history/flora/taos-flora-overview.md) - Environmental context
 
 ---
 

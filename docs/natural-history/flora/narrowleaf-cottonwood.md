@@ -330,9 +330,9 @@ Current research focuses on:
 ## Cross-References
 
 - **Flora Overview**: [taos-flora-overview.md](taos-flora-overview.md)
-- **Ecosystem Documentation**: [Riparian Communities](../taos-flora-overview.md#riparian-communities)
+- **Ecosystem Documentation**: [Riparian Communities](taos-flora-overview.md#riparian-communities)
 - **Fauna**: [Beaver](../fauna/beaver.md) - Important user of cottonwood
-- **Geography**: [Extended Overview Geography](../overview/taos-extended-overview-part-3.md)
+- **Geography**: [Extended Overview Geography](../../overview/taos-extended-overview-part-3.md)
 
 ---
 

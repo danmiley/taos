@@ -452,3 +452,4 @@ Leopold's connections to other significant figures in Taos history are primarily
 *Significant figure biography for Taos, New Mexico Regional Concordance*  
 *Created: 2025-12-24*
 
+

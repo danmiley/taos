@@ -328,7 +328,7 @@ Current research focuses on:
 ## Cross-References
 
 - **Flora Overview**: [taos-flora-overview.md](taos-flora-overview.md)
-- **Ecosystem Documentation**: [Subalpine and Alpine Zones](../taos-flora-overview.md#subalpine-forest-11000-12000-feet)
+- **Ecosystem Documentation**: [Subalpine and Alpine Zones](taos-flora-overview.md#subalpine-forest)
 - **Geography**: [Wheeler Peak](../../geology/wheeler-peak.md) - Primary location for bristlecone pines
 - **Evolutionary History**: [Deep Time Documentation](../../evolutionary-history/taos-deep-time.md) - Ancient lineages and living fossils
 - **Fauna**: [Clark's Nutcracker](../fauna/clarks-nutcracker.md) - Seed disperser (though limited interaction with bristlecone)

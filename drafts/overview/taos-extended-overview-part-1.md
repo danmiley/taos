@@ -132,3 +132,4 @@ The overwhelming first impression is one of **scale and vertical relief**—moun
 
 *Continue to [Part 2: Geological Foundation](taos-extended-overview-part-2.md)*
 
+

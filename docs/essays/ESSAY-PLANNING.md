@@ -1,4 +1,4 @@
-# [REGION-NAME] Essays: Planning Document
+# Taos, New Mexico Essays: Planning Document
 
 ## Unexpected Angles & Hidden Connections
 
@@ -274,8 +274,8 @@ These works exemplify the essay style we're pursuing:
 
 ---
 
-*Planning document for [REGION-NAME] Essays series*
-*Part of the [REGION-NAME] Regional Concordance project*
+*Planning document for Taos, New Mexico Essays series*
+*Part of the Taos, New Mexico Regional Concordance project*
 
 
 

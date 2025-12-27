@@ -395,10 +395,10 @@ Climate models project continued warming, which will likely:
 
 ### Related Documents
 - [Flora Overview](../flora/taos-flora-overview.md)
-- [Extended Overview Part 6: Fauna](../overview/taos-extended-overview-part-6.md)
+- [Extended Overview Part 6: Fauna](../../overview/taos-extended-overview-part-6.md)
 - [Geography Documentation](../../geography/taos-geography.md)
 - [Evolutionary History](../../evolutionary-history/taos-deep-time.md)
-- [Relevant Biographies](../../biographies/)
+- [Relevant Biographies](../../biographies/aldo-leopold.md)
 
 ---
 

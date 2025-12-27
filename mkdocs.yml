@@ -1,0 +1,188 @@
+site_name: Taos, New Mexico Regional Concordance
+site_description: Comprehensive natural and human history documentation of Taos, New Mexico
+site_author: Taos Regional Documentation Project
+site_url: https://your-site-url.com  # Update with your actual site URL
+
+# Repository
+repo_name: taos-regional-concordance
+repo_url: https://github.com/yourusername/taos  # Update with your actual repo URL
+edit_uri: edit/main/docs/
+
+# Copyright
+copyright: Copyright &copy; 2025 Taos Regional Documentation Project
+
+# Theme
+theme:
+  name: material
+  palette:
+    # Light mode
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    # Dark mode
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.code.annotate
+    - content.code.copy
+
+# Plugins
+plugins:
+  - search:
+      lang: en
+  - git-revision-date-localized:
+      enable_creation_date: true
+      type: date
+  - minify:
+      minify_html: true
+
+# Markdown extensions
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.emoji
+  - admonition
+  - pymdownx.details
+  - attr_list
+  - md_in_html
+  - toc:
+      permalink: true
+      toc_depth: 3
+
+# Navigation
+nav:
+  - Home: index.md
+  - Overview:
+    - overview/taos.md
+    - Extended Overview:
+      - overview/taos-extended-overview-part-1.md
+      - overview/taos-extended-overview-part-2.md
+      - overview/taos-extended-overview-part-3.md
+      - overview/taos-extended-overview-part-4.md
+      - overview/taos-extended-overview-part-5.md
+      - overview/taos-extended-overview-part-6.md
+      - overview/taos-extended-overview-part-7.md
+      - overview/taos-extended-overview-part-8.md
+      - overview/taos-extended-overview-part-9.md
+      - overview/taos-extended-overview-part-10.md
+  - Geology:
+    - geology/taos-geology.md
+    - geology/rio-grande-gorge.md
+    - geology/rio-grande-gorge-bridge.md
+    - geology/sangre-de-cristo-fault-system.md
+    - geology/servilleta-basalt-formation.md
+    - geology/taos-plateau-volcanic-field.md
+    - geology/wheeler-peak.md
+  - Geography:
+    - geography/taos-geography.md
+  - Evolutionary History:
+    - evolutionary-history/taos-deep-time.md
+    - evolutionary-history/cenozoic-era.md
+    - evolutionary-history/fossil-record.md
+  - Natural History:
+    - Flora:
+      - natural-history/flora/taos-flora-overview.md
+      - natural-history/flora/big-sagebrush.md
+      - natural-history/flora/bristlecone-pine.md
+      - natural-history/flora/narrowleaf-cottonwood.md
+      - natural-history/flora/pinon-pine.md
+      - natural-history/flora/ponderosa-pine.md
+      - natural-history/flora/quaking-aspen.md
+    - Fauna:
+      - natural-history/fauna/taos-fauna-overview.md
+      - natural-history/fauna/beaver.md
+      - natural-history/fauna/clarks-nutcracker.md
+      - natural-history/fauna/elk.md
+      - natural-history/fauna/mountain-lion.md
+      - natural-history/fauna/pika.md
+      - natural-history/fauna/rio-grande-cutthroat-trout.md
+  - Human History:
+    - human-history/taos-human-history.md
+    - human-history/prehistory-indigenous-era.md
+    - human-history/spanish-colonial-era.md
+    - human-history/mexican-territorial-era.md
+    - human-history/modern-contemporary-era.md
+  - Biographies:
+    - biographies/aldo-leopold.md
+    - biographies/aldo-leopold-short.md
+    - biographies/dh-lawrence.md
+    - biographies/dh-lawrence-short.md
+    - biographies/ernest-blumenschein.md
+    - biographies/ernest-blumenschein-short.md
+    - biographies/georgia-okeeffe.md
+    - biographies/georgia-okeeffe-short.md
+    - biographies/john-c-fremont.md
+    - biographies/john-c-fremont-short.md
+    - biographies/kit-carson.md
+    - biographies/kit-carson-short.md
+    - biographies/mabel-dodge-luhan.md
+    - biographies/mabel-dodge-luhan-short.md
+    - biographies/popay.md
+    - biographies/popay-short.md
+    - biographies/red-cloud-short.md
+  - Landmarks:
+    - landmarks/dh-lawrence-ranch.md
+    - landmarks/ghost-ranch.md
+    - landmarks/mabel-dodge-luhan-house.md
+    - landmarks/rio-grande-gorge.md
+    - landmarks/taos-pueblo.md
+    - landmarks/wheeler-peak.md
+  - Cultural Organization:
+    - cultural-organization/taos-cultural-organization.md
+    - cultural-organization/arroyo-seco.md
+    - cultural-organization/questa.md
+    - cultural-organization/town-of-taos.md
+  - Essays:
+    - essays/README.md
+    - essays/ESSAY-PLANNING.md
+    - Themes:
+      - essays/themes/01-rift-that-made-mountains.md
+      - essays/themes/03-monsoon-that-defines-desert.md
+      - essays/themes/04-water-that-isnt-there.md
+      - essays/themes/05-ancient-survivor-on-peak.md
+      - essays/themes/06-beavers-return.md
+      - essays/themes/08-elk-that-came-back.md
+    - Perspectives:
+      - essays/perspectives/02-invisible-gorge.md
+      - essays/perspectives/07-knowledge-that-preceded-science.md
+  - Timeline:
+    - timeline/taos-timeline.md
+
+# Extra
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/yourusername/taos  # Update with your actual repo URL
+  version:
+    provider: mike
+
+# Extra CSS (uncomment and add files if needed)
+# extra_css:
+#   - stylesheets/extra.css
+
+# Extra JavaScript (uncomment and add files if needed)
+# extra_javascript:
+#   - javascripts/extra.js
+

@@ -107,3 +107,4 @@ For each feature, answer:
 
 **Start by reviewing the extended overview Part 2, then select your features and begin creating documents following the template. Focus on compelling geological stories!**
 
+

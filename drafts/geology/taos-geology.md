@@ -625,3 +625,4 @@ Geological knowledge affects human activity throughout the Taos region:
 *Geology documentation for Taos, New Mexico Regional Concordance*  
 *Created: 2025-12-24*
 
+

@@ -317,9 +317,9 @@ The Mabel Dodge Luhan House connects to other landmarks in the Taos region:
 
 ## Cross-References
 
-- **Regional Overview**: [Taos Extended Overview](../overview/)
+- **Regional Overview**: [Taos Extended Overview](../overview/taos.md)
 - **Geology**: [Taos Geology](../geology/taos-geology.md) - High desert landscape
-- **Natural History**: [Taos Natural History](../natural-history/) - High desert flora and fauna
+- **Natural History**: [Flora Overview](../natural-history/flora/taos-flora-overview.md) - High desert flora and fauna
 - **Human History**: [Modern Era](../human-history/modern-contemporary-era.md) - Art colony development
 - **Significant Figures**: 
   - [Mabel Dodge Luhan](../biographies/mabel-dodge-luhan.md) - Primary association

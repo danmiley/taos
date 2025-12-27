@@ -119,3 +119,4 @@ Mabel Dodge Luhan stands as one of the most influential cultural figures in Taos
 
 *This is a quick-reference short biography. For comprehensive coverage including detailed life history, relationships, analysis, and extensive sourcing, see the [Extended Biography](mabel-dodge-luhan.md).*
 
+

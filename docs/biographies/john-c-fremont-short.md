@@ -114,7 +114,7 @@ Frémont's expeditions were significant in mapping and documenting the geography
 - **Extended Biography**: [john-c-fremont.md](john-c-fremont.md)
 - **Human History**: [Extended Overview Human History Section](../overview/taos-extended-overview-part-7.md) - 19th century exploration and territorial period
 - **Geography**: [Extended Overview Geography Section](../overview/taos-extended-overview-part-3.md) - Regional mapping and documentation
-- **Timeline**: [Regional Timeline](../timeline/) - 1840s exploration period
+- **Timeline**: [Regional Timeline](../timeline/taos-timeline.md) - 1840s exploration period
 
 ---
 

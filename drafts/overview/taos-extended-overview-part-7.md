@@ -163,3 +163,4 @@ By approximately 1,000 years ago, Ancestral Puebloan peoples had established per
 
 *Continue to [Part 8: Human History - Modern Era](taos-extended-overview-part-8.md)*
 
+

@@ -424,3 +424,4 @@ While specific indigenous knowledge of the volcanic field's origin is not fully 
 *Geological feature documentation for Taos, New Mexico Regional Concordance*  
 *Created: 2025-12-24*
 
+

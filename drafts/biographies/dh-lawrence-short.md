@@ -119,3 +119,4 @@ D.H. Lawrence stands as one of the most significant literary figures associated 
 
 *This is a quick-reference short biography. For comprehensive coverage including detailed life history, relationships, analysis, and extensive sourcing, see the [Extended Biography](dh-lawrence.md).*
 
+

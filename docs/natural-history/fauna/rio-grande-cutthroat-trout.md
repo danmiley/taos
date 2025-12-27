@@ -374,7 +374,7 @@ Research challenges include:
 ## Cross-References
 
 - **Fauna Overview**: [taos-fauna-overview.md](taos-fauna-overview.md)
-- **Habitat/Ecosystem**: [Riparian Communities](../../flora/taos-flora-overview.md#riparian-communities)
+- **Habitat/Ecosystem**: [Riparian Communities](../flora/taos-flora-overview.md#riparian-communities)
 - **Geography**: [Extended Overview Geography](../../overview/taos-extended-overview-part-3.md)
 - **Human History**: Traditional use and conservation history
 

@@ -437,7 +437,7 @@ Po'pay's connections to other significant figures in Taos history are primarily 
 - **Human History**: [Extended Overview Human History Section](../overview/taos-extended-overview-part-7.md) - Pueblo Revolt of 1680
 - **Landmarks**: Taos Pueblo - Gathering point and stronghold during revolt
 - **Other Figures**: Connections to Taos Pueblo leaders (names not fully documented in available historical sources)
-- **Timeline**: [Regional Timeline](../timeline/) - 1680 Pueblo Revolt
+- **Timeline**: [Regional Timeline](../timeline/taos-timeline.md) - 1680 Pueblo Revolt
 
 ---
 

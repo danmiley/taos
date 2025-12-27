@@ -358,8 +358,8 @@ Current research focuses on:
 ## Cross-References
 
 - **Fauna Overview**: [taos-fauna-overview.md](taos-fauna-overview.md)
-- **Habitat/Ecosystem**: [Riparian Communities](../../flora/taos-flora-overview.md#riparian-communities)
-- **Flora**: [Narrowleaf Cottonwood](../../flora/narrowleaf-cottonwood.md), [Quaking Aspen](../../flora/quaking-aspen.md) - Important food sources
+- **Habitat/Ecosystem**: [Riparian Communities](../flora/taos-flora-overview.md#riparian-communities)
+- **Flora**: [Narrowleaf Cottonwood](../flora/narrowleaf-cottonwood.md), [Quaking Aspen](../flora/quaking-aspen.md) - Important food sources
 - **Human History**: Fur trade history
 
 ---

@@ -441,3 +441,4 @@ Frémont's connections to other significant figures in Taos history include his 
 *Significant figure biography for Taos, New Mexico Regional Concordance*  
 *Created: 2025-12-24*
 
+

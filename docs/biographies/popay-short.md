@@ -105,7 +105,7 @@ Po'pay stands as one of the most significant figures in North American indigenou
 - **Extended Biography**: [popay.md](popay.md)
 - **Human History**: [Extended Overview Human History Section](../overview/taos-extended-overview-part-7.md) - Pueblo Revolt of 1680
 - **Landmarks**: Taos Pueblo - Gathering point and stronghold during revolt
-- **Timeline**: [Regional Timeline](../timeline/) - 1680 Pueblo Revolt
+- **Timeline**: [Regional Timeline](../timeline/taos-timeline.md) - 1680 Pueblo Revolt
 
 ---
 

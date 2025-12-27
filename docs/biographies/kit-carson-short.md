@@ -107,7 +107,7 @@ Kit Carson's connection to Taos, New Mexico, is deep and lasting. He married Jos
 - **Human History**: [Extended Overview Human History Section](../overview/taos-extended-overview-part-8.md) - Territorial period and Kit Carson in Taos
 - **Landmarks**: Kit Carson grave site - Historic landmark in Taos
 - **Other Figures**: [John C. Frémont](john-c-fremont.md) (worked with Carson as guide during expeditions)
-- **Timeline**: [Regional Timeline](../timeline/) - 1840s-1860s territorial period
+- **Timeline**: [Regional Timeline](../timeline/taos-timeline.md) - 1840s-1860s territorial period
 
 ---
 

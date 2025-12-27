@@ -388,3 +388,4 @@ Normal faults create high mountains not by pushing rocks up, but by dropping the
 *Geological feature documentation for Taos, New Mexico Regional Concordance*  
 *Created: 2025-12-24*
 
+

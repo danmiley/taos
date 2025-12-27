@@ -125,3 +125,4 @@ While Red Cloud was a significant figure in Native American history and his lead
 
 *This is a quick-reference short biography focusing on potential Taos connections. Connection to Taos requires verification. If a stronger connection is found, an extended biography may be warranted.*
 
+

@@ -434,7 +434,7 @@ Frémont's connections to other significant figures in Taos history include his 
 - **Short Biography**: [john-c-fremont-short.md](john-c-fremont-short.md)
 - **Human History**: [Extended Overview Human History Section](../overview/taos-extended-overview-part-7.md) - 19th century exploration and territorial period
 - **Geography**: [Extended Overview Geography Section](../overview/taos-extended-overview-part-3.md) - Regional mapping and documentation
-- **Timeline**: [Regional Timeline](../timeline/) - 1840s exploration period
+- **Timeline**: [Regional Timeline](../timeline/taos-timeline.md) - 1840s exploration period
 
 ---
 

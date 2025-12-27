@@ -167,3 +167,4 @@ Systematic paleontological research in the Taos region has been limited compared
 
 *Continue to [Part 5: Natural History - Flora Overview](taos-extended-overview-part-5.md)*
 
+

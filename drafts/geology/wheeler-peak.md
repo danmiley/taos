@@ -491,3 +491,4 @@ The peak's combination of ancient rocks, recent glacial features, and exceptiona
 *Geological feature documentation for Taos, New Mexico Regional Concordance*  
 *Created: 2025-12-24*
 
+

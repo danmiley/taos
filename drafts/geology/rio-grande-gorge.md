@@ -412,3 +412,4 @@ The gorge's accessibility and dramatic exposure make it an ideal natural laborat
 *Geological feature documentation for Taos, New Mexico Regional Concordance*  
 *Created: 2025-12-24*
 
+

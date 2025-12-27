@@ -330,10 +330,10 @@ Current research focuses on:
 ## Cross-References
 
 - **Flora Overview**: [taos-flora-overview.md](taos-flora-overview.md)
-- **Ecosystem Documentation**: [Piñon-Juniper Woodland](../taos-flora-overview.md#piñon-juniper-woodland-7000-8500-feet)
+- **Ecosystem Documentation**: [Piñon-Juniper Woodland](taos-flora-overview.md#piñon-juniper-woodland)
 - **Fauna**: [Clark's Nutcracker](../fauna/clarks-nutcracker.md) - Important seed disperser
 - **Human History**: Traditional harvesting practices and cultural significance
-- **Geography**: [Extended Overview Geography](../overview/taos-extended-overview-part-3.md)
+- **Geography**: [Extended Overview Geography](../../overview/taos-extended-overview-part-3.md)
 
 ---
 

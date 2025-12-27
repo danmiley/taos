@@ -335,9 +335,9 @@ Current research focuses on:
 ## Cross-References
 
 - **Flora Overview**: [taos-flora-overview.md](taos-flora-overview.md)
-- **Ecosystem Documentation**: [Mixed Conifer Forest](../taos-flora-overview.md#mixed-conifer-forest-9000-11500-feet)
+- **Ecosystem Documentation**: [Mixed Conifer Forest](taos-flora-overview.md#mixed-conifer-forest)
 - **Fauna**: [Elk](../fauna/elk.md) - Important browser of aspen
-- **Geography**: [Extended Overview Geography](../overview/taos-extended-overview-part-3.md)
+- **Geography**: [Extended Overview Geography](../../overview/taos-extended-overview-part-3.md)
 
 ---
 

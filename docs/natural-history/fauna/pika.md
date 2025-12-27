@@ -356,7 +356,7 @@ Current research focuses on:
 ## Cross-References
 
 - **Fauna Overview**: [taos-fauna-overview.md](taos-fauna-overview.md)
-- **Habitat/Ecosystem**: [Alpine Tundra](../../flora/taos-flora-overview.md#alpine-tundra-12000-13161-feet)
+- **Habitat/Ecosystem**: [Alpine Tundra](../flora/taos-flora-overview.md#alpine-tundra)
 - **Geography**: [Wheeler Peak](../../geology/wheeler-peak.md) - Primary location
 - **Climate Change**: [Extended Overview Climate](../../overview/taos-extended-overview-part-3.md)
 

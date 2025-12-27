@@ -437,7 +437,7 @@ Lawrence's connections to other significant figures in Taos include his relation
 - **Other Figures**: 
   - [Mabel Dodge Luhan](mabel-dodge-luhan.md) (host and patron)
   - [Georgia O'Keeffe](georgia-okeeffe.md) (fellow artist in Taos art colony)
-- **Timeline**: [Regional Timeline](../timeline/) - 1922 arrival, 1922-1925 residence
+- **Timeline**: [Regional Timeline](../timeline/taos-timeline.md) - 1922 arrival, 1922-1925 residence
 
 ---
 

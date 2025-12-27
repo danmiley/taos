@@ -451,8 +451,8 @@ Town of Taos is located in the central Taos Valley, at approximately 6,950 feet 
 - **Regional Overview**: [taos-cultural-organization.md](taos-cultural-organization.md)
 - **Human History**: [../human-history/taos-human-history.md](../human-history/taos-human-history.md)
 - **Extended Overview Part 9**: [../overview/taos-extended-overview-part-9.md](../overview/taos-extended-overview-part-9.md)
-- **Significant Figures**: [../biographies/](../biographies/) - Artists and cultural figures who shaped the town
-- **Landmarks**: [../landmarks/](../landmarks/) - Historic sites and cultural landmarks
+- **Significant Figures**: [Mabel Dodge Luhan](../biographies/mabel-dodge-luhan.md) - Artists and cultural figures who shaped the town
+- **Landmarks**: [Taos Pueblo](../landmarks/taos-pueblo.md) - Historic sites and cultural landmarks
 
 ---
 

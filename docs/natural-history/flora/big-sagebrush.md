@@ -333,8 +333,8 @@ Current research focuses on:
 ## Cross-References
 
 - **Flora Overview**: [taos-flora-overview.md](taos-flora-overview.md)
-- **Ecosystem Documentation**: [High Desert Valley Zone](../taos-flora-overview.md#high-desert-valley-zone-6200-7500-feet)
-- **Fauna**: [Pronghorn](../fauna/pronghorn.md) - Important browser of sagebrush
+- **Ecosystem Documentation**: [High Desert Valley Zone](taos-flora-overview.md#high-desert-valley-zone)
+- **Fauna**: Mule deer and other herbivores - Important browsers of sagebrush
 - **Human History**: Traditional uses and cultural significance
 
 ---

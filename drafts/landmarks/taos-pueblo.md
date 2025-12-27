@@ -354,3 +354,4 @@ Key images that should accompany this document (stored in `/docs/media/photos/`)
 *Landmark documentation for Taos, New Mexico Regional Concordance*  
 *Created: 2025-12-24*
 
+

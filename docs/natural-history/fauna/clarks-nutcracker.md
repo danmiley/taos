@@ -346,8 +346,8 @@ Current research focuses on:
 ## Cross-References
 
 - **Fauna Overview**: [taos-fauna-overview.md](taos-fauna-overview.md)
-- **Habitat/Ecosystem**: [Subalpine Forest](../../flora/taos-flora-overview.md#subalpine-forest-11000-12000-feet)
-- **Flora**: [Bristlecone Pine](../../flora/bristlecone-pine.md), [Piñon Pine](../../flora/pinon-pine.md) - Seed sources
+- **Habitat/Ecosystem**: [Subalpine Forest](../flora/taos-flora-overview.md#subalpine-forest)
+- **Flora**: [Bristlecone Pine](../flora/bristlecone-pine.md), [Piñon Pine](../flora/pinon-pine.md) - Seed sources
 - **Geography**: [Extended Overview Geography](../../overview/taos-extended-overview-part-3.md)
 
 ---

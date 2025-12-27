@@ -318,8 +318,8 @@ This timeline synthesizes the geological, evolutionary, and human history of Tao
 - **Geology**: [Taos Geology](../geology/taos-geology.md) - Detailed geological documentation
 - **Evolutionary History**: [Taos Deep Time](../evolutionary-history/taos-deep-time.md) - Comprehensive evolutionary history
 - **Human History**: [Taos Human History](../human-history/taos-human-history.md) - Detailed human history
-- **Landmarks**: [Landmarks](../landmarks/) - Sites associated with timeline events
-- **Biographies**: [Biographies](../biographies/) - Significant figures in timeline
+- **Landmarks**: [Taos Pueblo](../landmarks/taos-pueblo.md) - Sites associated with timeline events
+- **Biographies**: [Po'pay](../biographies/popay.md) - Significant figures in timeline
 
 ---
 

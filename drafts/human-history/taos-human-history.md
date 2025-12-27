@@ -369,3 +369,4 @@ By approximately 1,000 years ago, Ancestral Puebloan peoples had established per
 *Human history overview for Taos, New Mexico Regional Concordance*
 *Created: 2025-12-24*
 
+

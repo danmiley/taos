@@ -372,8 +372,8 @@ Current research focuses on:
 ## Cross-References
 
 - **Fauna Overview**: [taos-fauna-overview.md](taos-fauna-overview.md)
-- **Habitat/Ecosystem**: [Montane Forests](../../flora/taos-flora-overview.md#mixed-conifer-forest-9000-11500-feet)
-- **Flora**: [Quaking Aspen](../../flora/quaking-aspen.md) - Important browse species
+- **Habitat/Ecosystem**: [Montane Forests](../flora/taos-flora-overview.md#mixed-conifer-forest)
+- **Flora**: [Quaking Aspen](../flora/quaking-aspen.md) - Important browse species
 - **Human History**: Traditional use and reintroduction history
 
 ---

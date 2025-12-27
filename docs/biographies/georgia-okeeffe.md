@@ -435,7 +435,7 @@ O'Keeffe's connections to other significant figures in Taos include her interact
   - [Mabel Dodge Luhan](mabel-dodge-luhan.md) (cultural patron and host)
   - [D.H. Lawrence](dh-lawrence.md) (fellow artist/writer in Taos art colony)
   - [Ernest Blumenschein](ernest-blumenschein.md) (fellow artist in Taos art colony)
-- **Timeline**: [Regional Timeline](../timeline/) - 1929 first visit, continued visits through 1980s
+- **Timeline**: [Regional Timeline](../timeline/taos-timeline.md) - 1929 first visit, continued visits through 1980s
 
 ---
 

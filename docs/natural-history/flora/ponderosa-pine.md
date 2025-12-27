@@ -327,8 +327,8 @@ Current research focuses on:
 ## Cross-References
 
 - **Flora Overview**: [taos-flora-overview.md](taos-flora-overview.md)
-- **Ecosystem Documentation**: [Ponderosa Pine Forest](../taos-flora-overview.md#ponderosa-pine-forest-8000-9500-feet)
-- **Geography**: [Extended Overview Geography](../overview/taos-extended-overview-part-3.md)
+- **Ecosystem Documentation**: [Ponderosa Pine Forest](taos-flora-overview.md#ponderosa-pine-forest)
+- **Geography**: [Extended Overview Geography](../../overview/taos-extended-overview-part-3.md)
 - **Human History**: Fire management and forest use
 
 ---

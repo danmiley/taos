@@ -10,7 +10,7 @@ status: draft
 narrative_flags: [TURNING, HUMAN, UNUSUAL, PARADOX, UNEXPECTED]
 tags: [essay, elk, reintroduction, wildlife-management, restoration, conservation]
 sources: [nmdgf, wildlife-surveys, conservation-history]
-related: [../../natural-history/fauna/elk.md, ../../geography/taos-geography.md, ../../human-history/american-territorial-era.md]
+related: [../../natural-history/fauna/elk.md, ../../geography/taos-geography.md, ../../human-history/mexican-territorial-era.md]
 contributors: []
 last_updated: "2025-12-26"
 review_status: "awaiting_review"
@@ -223,7 +223,7 @@ For now, that is enough. The question of what comes next belongs to us.
 
 - [Elk Species Profile](../../natural-history/fauna/elk.md) — Detailed species documentation
 - [Taos Geography](../../geography/taos-geography.md) — Habitat and elevation zones
-- [American Territorial Era](../../human-history/american-territorial-era.md) — Historical context for elk decline
+- [Mexican Territorial Era](../../human-history/mexican-territorial-era.md) — Historical context for elk decline
 
 ---
 

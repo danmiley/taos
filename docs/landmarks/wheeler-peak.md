@@ -321,12 +321,12 @@ Wheeler Peak connects to other landmarks in the Taos region:
 
 ## Cross-References
 
-- **Regional Overview**: [Taos Extended Overview](../overview/)
+- **Regional Overview**: [Taos Extended Overview](../overview/taos.md)
 - **Geology**: 
   - [Wheeler Peak (Geology)](../geology/wheeler-peak.md) - Detailed geological documentation
   - [Sangre de Cristo Fault System](../geology/sangre-de-cristo-fault-system.md) - Mountain-building processes
   - [Taos Geology](../geology/taos-geology.md) - Regional geology
-- **Natural History**: [Taos Natural History](../natural-history/) - Alpine flora and fauna
+- **Natural History**: [Flora Overview](../natural-history/flora/taos-flora-overview.md) - Alpine flora and fauna
 - **Human History**: [Modern Era](../human-history/modern-contemporary-era.md) - Recreation development
 
 ---

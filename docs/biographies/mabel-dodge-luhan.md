@@ -441,7 +441,7 @@ Luhan's connections to other significant figures in Taos include her relationshi
   - [Georgia O'Keeffe](georgia-okeeffe.md) (hosted artist, 1920s-1930s)
   - [Ernest Blumenschein](ernest-blumenschein.md) (interacted with art colony founder)
   - Tony Lujan (Antonio Mirabal Lujan) - Spouse, Taos Pueblo member
-- **Timeline**: [Regional Timeline](../timeline/) - 1917 arrival, 1918 marriage, cultural salon establishment
+- **Timeline**: [Regional Timeline](../timeline/taos-timeline.md) - 1917 arrival, 1918 marriage, cultural salon establishment
 
 ---
 

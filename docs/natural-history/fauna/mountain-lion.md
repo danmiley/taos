@@ -354,7 +354,7 @@ Current research focuses on:
 ## Cross-References
 
 - **Fauna Overview**: [taos-fauna-overview.md](taos-fauna-overview.md)
-- **Habitat/Ecosystem**: [Montane Forests](../../flora/taos-flora-overview.md#mixed-conifer-forest-9000-11500-feet)
+- **Habitat/Ecosystem**: [Montane Forests](../flora/taos-flora-overview.md#mixed-conifer-forest)
 - **Prey Species**: [Elk](elk.md), [Mule Deer] - Primary prey
 - **Human History**: Human-wildlife conflicts and management
 

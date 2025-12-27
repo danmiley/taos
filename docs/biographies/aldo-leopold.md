@@ -445,7 +445,7 @@ Leopold's connections to other significant figures in Taos history are primarily
 - **Human History**: [Extended Overview Human History Section](../overview/taos-extended-overview-part-8.md) - 20th century conservation period
 - **Natural History**: [Extended Overview Natural History Sections](../overview/taos-extended-overview-part-5.md) - Conservation and ecosystem management
 - **Geography**: [Extended Overview Geography Section](../overview/taos-extended-overview-part-3.md) - Forest and wilderness areas
-- **Timeline**: [Regional Timeline](../timeline/) - 1910s conservation period
+- **Timeline**: [Regional Timeline](../timeline/taos-timeline.md) - 1910s conservation period
 
 ---
 

@@ -447,7 +447,7 @@ Blumenschein's connections to other significant figures in Taos include his coll
   - [Mabel Dodge Luhan](mabel-dodge-luhan.md) (cultural patron)
   - [D.H. Lawrence](dh-lawrence.md) (fellow artist/writer in Taos art colony)
   - [Georgia O'Keeffe](georgia-okeeffe.md) (fellow artist in Taos art colony)
-- **Timeline**: [Regional Timeline](../timeline/) - 1898 arrival, 1915 Taos Society of Artists founding
+- **Timeline**: [Regional Timeline](../timeline/taos-timeline.md) - 1898 arrival, 1915 Taos Society of Artists founding
 
 ---
 

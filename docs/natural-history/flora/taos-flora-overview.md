@@ -51,7 +51,7 @@ The region's flora tells stories of adaptation, persistence, and human connectio
 
 ## Major Vegetation Zones
 
-### High Desert Valley Zone (6,200-7,500 feet)
+### High Desert Valley Zone (6,200-7,500 feet) {#high-desert-valley-zone}
 
 The valley floor supports high desert vegetation adapted to semi-arid conditions, cold winters, and intense solar radiation at high elevation. This zone represents the transition between true desert and montane environments, characterized by sparse, widely spaced vegetation.
 
@@ -66,7 +66,7 @@ The valley floor supports high desert vegetation adapted to semi-arid conditions
 
 **Ecological Character**: Open, sparse vegetation with widely spaced shrubs and grasses. Fire-adapted communities shaped by periodic burning. Limited tree cover except in riparian corridors and slightly elevated microsites.
 
-### Piñon-Juniper Woodland (7,000-8,500 feet)
+### Piñon-Juniper Woodland (7,000-8,500 feet) {#piñon-juniper-woodland}
 
 This transition zone between desert and forest represents one of the most characteristic vegetation types of the American Southwest. Piñon-juniper woodlands cover extensive areas on valley margins and lower mountain slopes, creating distinctive open-canopy forests.
 
@@ -78,7 +78,7 @@ This transition zone between desert and forest represents one of the most charac
 
 **Ecological Significance**: These woodlands provide critical habitat for numerous bird and mammal species. Piñon nuts are an important food source for wildlife and humans. The open structure allows understory grasses and forbs to flourish, supporting diverse herbaceous communities.
 
-### Ponderosa Pine Forest (8,000-9,500 feet)
+### Ponderosa Pine Forest (8,000-9,500 feet) {#ponderosa-pine-forest}
 
 Open parkland forests dominated by ponderosa pine, characterized by grassy understories and fire-dependent ecology.
 
@@ -89,7 +89,7 @@ Open parkland forests dominated by ponderosa pine, characterized by grassy under
 
 **Ecological Character**: These forests require periodic fire to maintain their open structure and prevent encroachment by shade-tolerant species. Fire suppression has led to increased fuel loads and altered species composition.
 
-### Mixed Conifer Forest (9,000-11,500 feet)
+### Mixed Conifer Forest (9,000-11,500 feet) {#mixed-conifer-forest}
 
 As elevation increases, forests become increasingly dense and diverse, supporting multiple conifer species and deciduous trees.
 
@@ -102,7 +102,7 @@ As elevation increases, forests become increasingly dense and diverse, supportin
 
 **Ecological Character**: Dense, diverse forests with multiple canopy layers. Aspen groves provide important habitat diversity and spectacular fall color displays.
 
-### Subalpine Forest (11,000-12,000 feet)
+### Subalpine Forest (11,000-12,000 feet) {#subalpine-forest}
 
 Dense, dark forests near treeline, dominated by cold-adapted conifers including ancient bristlecone pines.
 
@@ -113,7 +113,7 @@ Dense, dark forests near treeline, dominated by cold-adapted conifers including 
 
 **Ecological Character**: Harsh conditions near treeline create stunted, wind-sculpted trees. Bristlecone pines survive in these extreme conditions through slow growth and extreme longevity.
 
-### Alpine Tundra (12,000-13,161 feet)
+### Alpine Tundra (12,000-13,161 feet) {#alpine-tundra}
 
 Above treeline, harsh conditions limit vegetation to low-growing, cold-adapted species with extremely short growing seasons.
 
@@ -348,10 +348,10 @@ Climate models project continued warming, which will likely:
 
 ### Related Documents
 - [Fauna Overview](../fauna/taos-fauna-overview.md)
-- [Extended Overview Part 5: Flora](../overview/taos-extended-overview-part-5.md)
+- [Extended Overview Part 5: Flora](../../overview/taos-extended-overview-part-5.md)
 - [Geography Documentation](../../geography/taos-geography.md)
 - [Evolutionary History](../../evolutionary-history/taos-deep-time.md)
-- [Relevant Biographies](../../biographies/)
+- [Relevant Biographies](../../biographies/popay.md)
 
 ---
 

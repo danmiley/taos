@@ -469,3 +469,4 @@ This era teaches:
 *Prehistory and Indigenous Era documentation for Taos, New Mexico Regional Concordance*
 *Created: 2025-12-24*
 
+

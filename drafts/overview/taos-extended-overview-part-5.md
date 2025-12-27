@@ -154,3 +154,4 @@ Many Taos plants have traditional uses documented by indigenous peoples:
 
 *Continue to [Part 6: Natural History - Fauna Overview](taos-extended-overview-part-6.md)*
 
+

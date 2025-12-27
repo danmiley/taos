@@ -578,3 +578,4 @@ This era teaches:
 *Mexican and Territorial Era documentation for Taos, New Mexico Regional Concordance*
 *Created: 2025-12-24*
 
+

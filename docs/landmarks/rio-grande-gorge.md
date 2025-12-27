@@ -320,13 +320,13 @@ The Rio Grande Gorge connects to other landmarks in the Taos region:
 
 ## Cross-References
 
-- **Regional Overview**: [Taos Extended Overview](../overview/)
+- **Regional Overview**: [Taos Extended Overview](../overview/taos.md)
 - **Geology**: 
   - [Rio Grande Gorge (Geology)](../geology/rio-grande-gorge.md) - Detailed geological documentation
   - [Rio Grande Gorge Bridge](../geology/rio-grande-gorge-bridge.md) - Bridge engineering and geology
   - [Servilleta Basalt Formation](../geology/servilleta-basalt-formation.md) - Volcanic formation
   - [Taos Geology](../geology/taos-geology.md) - Regional geology
-- **Natural History**: [Taos Natural History](../natural-history/) - Gorge ecology and flora/fauna
+- **Natural History**: [Flora Overview](../natural-history/flora/taos-flora-overview.md) - Gorge ecology and flora/fauna
 - **Human History**: [Modern Era](../human-history/modern-contemporary-era.md) - Bridge construction, recreation development
 
 ---

@@ -119,3 +119,4 @@ Georgia O'Keeffe stands as one of the most significant American painters associa
 
 *This is a quick-reference short biography. For comprehensive coverage including detailed life history, relationships, analysis, and extensive sourcing, see the [Extended Biography](georgia-okeeffe.md).*
 
+

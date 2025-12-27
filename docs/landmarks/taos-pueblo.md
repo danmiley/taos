@@ -311,9 +311,9 @@ Taos Pueblo connects to other landmarks in the Taos region:
 
 ## Cross-References
 
-- **Regional Overview**: [Taos Extended Overview](../overview/)
+- **Regional Overview**: [Taos Extended Overview](../overview/taos.md)
 - **Geology**: [Taos Geology](../geology/taos-geology.md) - High desert landscape, Sangre de Cristo Mountains
-- **Natural History**: [Taos Natural History](../natural-history/) - High desert flora and fauna
+- **Natural History**: [Flora Overview](../natural-history/flora/taos-flora-overview.md) - High desert flora and fauna
 - **Human History**: 
   - [Prehistory-Indigenous Era](../human-history/prehistory-indigenous-era.md) - Pueblo establishment
   - [Spanish Colonial Era](../human-history/spanish-colonial-era.md) - Colonization, Pueblo Revolt

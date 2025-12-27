@@ -1,4 +1,4 @@
-# [REGION-NAME] Essays
+# Taos, New Mexico Essays
 
 ## Unexpected Angles & Hidden Connections
 
@@ -8,7 +8,7 @@
 
 ## Series Overview
 
-This essay series explores [REGION-NAME] through unexpected angles—atmospheric optics becoming folklore, roads that protect what they threaten, species that survive by hiding. Each essay begins with a specific object, place, or fact, then spirals outward into larger questions about landscape, time, and human presence.
+This essay series explores Taos, New Mexico through unexpected angles—atmospheric optics becoming folklore, roads that protect what they threaten, species that survive by hiding. Each essay begins with a specific object, place, or fact, then spirals outward into larger questions about landscape, time, and human presence.
 
 The essays complement the project's documentary content by offering interpretive, narrative-driven explorations. Where the docs provide authoritative information, these essays provide *meaning*—arguments, connections, and provocations grounded in the same research base.
 
@@ -18,29 +18,46 @@ The essays complement the project's documentary content by offering interpretive
 
 | # | Title | Category | Status |
 |---|-------|----------|--------|
-| 1 | [Essay Title](history/01-essay-slug.md) | History | Planned |
-| 2 | [Essay Title](perspectives/02-essay-slug.md) | Perspectives | Planned |
-| 3 | [Essay Title](themes/03-essay-slug.md) | Themes | Planned |
-| ... | ... | ... | ... |
+| 1 | [The Rift That Made Mountains](themes/01-rift-that-made-mountains.md) | Themes | Complete |
+| 2 | [The Invisible Gorge](perspectives/02-invisible-gorge.md) | Perspectives | Complete |
+| 3 | [The Monsoon That Defines the Desert](themes/03-monsoon-that-defines-desert.md) | Themes | Complete |
+| 4 | [The Water That Isn't There](themes/04-water-that-isnt-there.md) | Themes | Complete |
+| 5 | [The Ancient Survivor on the Peak](themes/05-ancient-survivor-on-peak.md) | Themes | Complete |
+| 6 | [The Beaver's Return](themes/06-beavers-return.md) | Themes | Complete |
+| 7 | [The Knowledge That Preceded Science](perspectives/07-knowledge-that-preceded-science.md) | Perspectives | Complete |
+| 8 | [The Elk That Came Back](themes/08-elk-that-came-back.md) | Themes | Complete |
 
 ---
 
 ## Essay Summaries
 
-### History Essays
-
-**1. [Essay Title]**
-[One-paragraph summary of the essay's central argument and approach.]
-
 ### Themes Essays
 
-**3. [Essay Title]**
-[One-paragraph summary of the essay's central argument and approach.]
+**1. The Rift That Made Mountains**
+Explores the geological paradox of the Rio Grande Rift—how a region of extension and pulling-apart created the Sangre de Cristo Mountains, one of the most dramatic ranges in the American West. The essay traces deep time processes that shaped the landscape and examines how this geological foundation influences everything from water flow to human settlement patterns.
+
+**3. The Monsoon That Defines the Desert**
+Investigates the North American Monsoon's critical role in Taos's high desert ecosystem. Despite receiving only 12-13 inches of annual precipitation, the region's summer monsoon patterns create distinct ecological rhythms that define what "desert" means in this elevation and latitude.
+
+**4. The Water That Isn't There**
+Examines the paradox of water in Taos—visible in snow-capped peaks and the Rio Grande, yet largely absent from the valley floor. The essay explores how water's absence shapes both natural systems and human culture, from traditional acequia systems to contemporary water rights conflicts.
+
+**5. The Ancient Survivor on the Peak**
+Tells the story of bristlecone pines near Wheeler Peak, trees that have survived for over 2,000 years in harsh alpine conditions. The essay connects these ancient survivors to questions of persistence, adaptation, and what it means to endure in changing conditions.
+
+**6. The Beaver's Return**
+Documents the ecological and cultural significance of beaver reintroduction in Taos waterways. The essay explores how beavers transform landscapes, create habitat, and represent a turning point in conservation thinking about keystone species.
+
+**8. The Elk That Came Back**
+Traces the recovery of elk populations in Taos after near-extinction in the early 20th century. The essay examines the complex relationship between wildlife, hunting, conservation, and cultural values in the region.
 
 ### Perspectives Essays
 
-**2. [Essay Title]**
-[One-paragraph summary of the essay's central argument and approach.]
+**2. The Invisible Gorge**
+Explores the Rio Grande Gorge's paradoxical invisibility from the valley floor—a dramatic 800-foot chasm that remains hidden until one reaches its rim. The essay examines perception, landscape, and how dramatic features can exist unnoticed in plain sight.
+
+**7. The Knowledge That Preceded Science**
+Examines traditional ecological knowledge of Taos Pueblo and other indigenous communities, exploring how centuries of observation and adaptation created sophisticated understanding of the region's ecology long before formal scientific study.
 
 ---
 
@@ -159,14 +176,14 @@ For complete essay prompts, research requirements, and source suggestions, see:
 
 ## Status
 
-- **Essays Planned**: [number]
-- **Essays Drafted**: 0
-- **Essays Published**: 0
-- **Current Phase**: Initial planning
+- **Essays Planned**: 8
+- **Essays Drafted**: 8
+- **Essays Published**: 8
+- **Current Phase**: Complete
 
 ---
 
-*Part of the [REGION-NAME] Regional Concordance project*
+*Part of the Taos, New Mexico Regional Concordance project*
 
 
 
